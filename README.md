@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @poetofthecity
+- 👀 I’m interested in ai
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on discord bot
+- 📫 How to reach @stardustone.xyz+dev@gmail.com
