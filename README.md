@@ -1,4 +1,5 @@
-elo there! <img src="wave.gif" width="30px">
+# elo there! <img src="wave.gif" width="35px">
+
 
 - 👋 Hi, I’m @poetofthecity
 - 👀 I’m interested in ai
